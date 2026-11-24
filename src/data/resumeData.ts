@@ -43,7 +43,7 @@ export const resumeData = {
     email: "sagardevani942@gmail.com",
     phone: "+91-9157396154",
     linkedin: "https://www.linkedin.com/in/devani-sagar",
-    github: "https://github.com/sagardevani",
+    github: "https://github.com/sagardevani01",
     availability: "Available for Full-time Roles & High-Impact Opportunities",
     bannerImage: "./sagar-banner.jpg",
     resumePdf: "./Sagar_Devani_Resume.pdf",
